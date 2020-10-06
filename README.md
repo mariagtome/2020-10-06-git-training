@@ -14,5 +14,5 @@
 	-'git log --oneline': one line version of your history
 -'git diff': will show you the differences
 	-'git diff --staged': show you differenced in the staging
-
+   	-'git HEAD~@": diff @ places back from HEAD
 
