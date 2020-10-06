@@ -9,8 +9,10 @@
 -'git add <file>': put <files> into the staging area (in GIT documentation staging area is also called index area)
 
 -'git commit': commit message for files in the staging area 
-
+	-'git commit -m "Message"': one line commit message without adding the text editor
 -'git log': show your log history
 	-'git log --oneline': one line version of your history
+-'git diff': will show you the differences
+	-'git diff --staged': show you differenced in the staging
 
 
