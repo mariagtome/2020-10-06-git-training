@@ -1,5 +1,6 @@
 # 2020-10-06-git-training
 
+## test
 -'git init': create git repository in current folder
 	- you only do this one per repository
 	- do not nest git repositories
